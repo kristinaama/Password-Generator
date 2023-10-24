@@ -8,7 +8,7 @@ This objective of this website is to generate a random password. The user may se
 
 ## Installation
 
-The HTML, CSS, and JavaScript code can be downloaded via the Homework-03 folder on my Github page. It can also be viewed by visiting the following URL: https://kristinaama.github.io/Homework-03/
+The HTML, CSS, and JavaScript code can be downloaded via the Homework-03 folder on my Github page. It can also be viewed by visiting the following URL: (https://kristinaama.github.io/Password-Generator/)
 
 ## Usage
 
